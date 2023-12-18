@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Burger",
+      "price": "149",
+      "mrp": "200",
+      "category": "BURGER",
+      "type": "VEG",
+      "img": "./assets/burger_image.png"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "price": "240",
+      "mrp": "300",
+      "category": "PIZZA",
+      "type": "NON-VEG",
+      "img": "./assets/pp.png"
+    },
+    {
+      "id": 3,
+      "name": "Margherita Pizza",
+      "price": "200",
+      "mrp": "250",
+      "category": "PIZZA",
+      "type": "VEG",
+      "img": "./assets/mp.png"
+    },
+    {
+      "id": 4,
+      "name": "Cheeseburger",
+      "price": "169",
+      "mrp": "220",
+      "category": "BURGER",
+      "type": "VEG",
+      "img": "./assets/cb.png"
+    },
+    {
+      "id": 5,
+      "name": "Veggie Pizza",
+      "price": "260",
+      "mrp": "320",
+      "category": "PIZZA",
+      "type": "VEG",
+      "img": "./assets/vsp.png"
+    },
+    {
+      "id": 6,
+      "name": "Coke 500ml",
+      "price": "50",
+      "mrp": "60",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/coc.png"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Tikka Pizza",
+      "price": "280",
+      "mrp": "350",
+      "category": "PIZZA",
+      "type": "NON-VEG",
+      "img": "./assets/ct.png"
+    },
+    {
+      "id": 8,
+      "name": "Iced Tea",
+      "price": "70",
+      "mrp": "90",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/it.png"
+    },
+    {
+      "id": 9,
+      "name": "BBQ Chicken Burger",
+      "price": "190",
+      "mrp": "230",
+      "category": "BURGER",
+      "type": "NON-VEG",
+      "img": "./assets/bcb.png"
+    },
+    {
+      "id": 10,
+      "name": "Mushroom Pizza",
+      "price": "230",
+      "mrp": "280",
+      "category": "PIZZA",
+      "type": "VEG",
+      "img": "./assets/masp.png"
+    },
+    {
+      "id": 11,
+      "name": "Fries",
+      "price": "100",
+      "mrp": "120",
+      "category": "SIDE",
+      "type": "VEG",
+      "img": "./assets/fries.png"
+    },
+    {
+      "id": 12,
+      "name": "Pepsi 500ml",
+      "price": "45",
+      "mrp": "55",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/pepsi.png"
+    },
+    {
+      "id": 13,
+      "name": "Paneer Tikka Pizza",
+      "price": "250",
+      "mrp": "300",
+      "category": "PIZZA",
+      "type": "VEG",
+      "img": "./assets/burger_image.png"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Burger",
+      "price": "180",
+      "mrp": "220",
+      "category": "BURGER",
+      "type": "NON-VEG",
+      "img": "./assets/cb.png"
+    },
+    {
+      "id": 15,
+      "name": "Garlic Bread",
+      "price": "120",
+      "mrp": "150",
+      "category": "SIDE",
+      "type": "VEG",
+      "img": "./assets/garlic.png"
+    },
+    {
+      "id": 16,
+      "name": "Mojito",
+      "price": "80",
+      "mrp": "100",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/mojito.png"
+    },
+    {
+      "id": 17,
+      "name": "Veggie Burger",
+      "price": "160",
+      "mrp": "200",
+      "category": "BURGER",
+      "type": "VEG",
+      "img": "./assets/vegie_burger.png"
+    },
+    {
+      "id": 18,
+      "name": "Sausage Pizza",
+      "price": "270",
+      "mrp": "320",
+      "category": "PIZZA",
+      "type": "NON-VEG",
+      "img": "./assets/suasage.png"
+    },
+    {
+      "id": 19,
+      "name": "Cold Coffee",
+      "price": "90",
+      "mrp": "110",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/cold_coffe.png"
+    },
+    {
+      "id": 20,
+      "name": "Fish Burger",
+      "price": "200",
+      "mrp": "250",
+      "category": "BURGER",
+      "type": "NON-VEG",
+      "img": "./assets/fish_burger.png"
+    },
+    {
+      "id": 21,
+      "name": "Pasta",
+      "price": "180",
+      "mrp": "220",
+      "category": "SIDE",
+      "type": "VEG",
+      "img": "./assets/pasta.png"
+    },
+    {
+      "id": 22,
+      "name": "Fanta 500ml",
+      "price": "40",
+      "mrp": "50",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/fanta.png"
+    },
+    {
+      "id": 23,
+      "name": "Special Burger",
+      "price": "290",
+      "mrp": "350",
+      "category": "PIZZA",
+      "type": "NON-VEG",
+      "img": "./assets/burger_image.png"
+    },
+    {
+      "id": 24,
+      "name": "Veggie Delight Pizza",
+      "price": "220",
+      "mrp": "270",
+      "category": "PIZZA",
+      "type": "VEG",
+      "img": "./assets/veggie_p.png"
+    },
+    {
+      "id": 25,
+      "name": "Hot Chocolate",
+      "price": "100",
+      "mrp": "120",
+      "category": "DRINK",
+      "type": "VEG",
+      "img": "./assets/choclate.png"
+
+
+    }]  

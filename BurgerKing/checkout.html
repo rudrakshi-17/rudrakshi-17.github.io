@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="flex navbar">
+        <img src="./assets/burger.jpg" height="80px" />
+        <div class="flex">
+
+            <a href="/#home">Home</a>
+            <a href="/#menu">Menu</a>
+        </div>
+    </div>
+    <div class="column-flex checkout-main-div">
+        <h2 > Checkout</h2>
+
+<div class="flex summary-div">
+    Total Items=23 Total Bill=3567
+</div>
+        <form class="form-info" action="submit()" method="post">
+            <div class="flex">
+
+                <div class="column-flex">
+
+                    <label for="name">Name:</label><br>
+                    <input type="text" id="username" name="username">
+                </div>
+                <div class="column-flex ">
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email">
+                </div>
+            </div>
+
+            <div class="column-flex">
+
+                <label for="address">Address:</label><br>
+                <textarea type="text" id="address" name="address"> </textarea>
+            </div>
+         
+            <div class="flex">
+            <button class="cancel-button" > Cancel </button>
+            <button class="submit-button" type="submit"> Order </button></div>
+
+        </form>
+    </div>
+
+    <script src="checkout.js" defer></script>
+
+</body>
+
+</html>

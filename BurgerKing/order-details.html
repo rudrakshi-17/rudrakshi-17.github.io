@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="flex navbar">
+        <img src="./assets/burger.jpg" height="80px" />
+        <div class="flex">
+
+            <a href="/#home">Home</a>
+            <!-- <a href="/#todays-special">Today's Special</a> -->
+            <a href="/#menu">Menu</a>
+            <!-- <a href="/#contact-us">Contact Us</a> -->
+        </div>
+    </div>
+    <div class="column-flex od-main-container">
+   <h2 > Order Details</h2>
+<div class="column-flex " id="order-details-container">
+
+    <div class="flex od-tile">
+        <img src="./assets/non-veg.png" alt="m" height="40px">
+       <h5> Biryani</h5>
+       <h4>price 200rs</h4>
+       <h4>mrp 400</h4>
+
+       <select name="cart-item" class="add-to-cart" id="cart-item">
+        <option value="">Add to cart</option>
+
+        <option value="1">1 Item</option>
+        <option value="2">2 Items</option>
+        <option value="3">3 Items</option>
+        <option value="4">4 Items</option>
+        <option value="5">5 Items</option>
+
+      </select>       <div class="reorder-btn">Remove</div>
+    </div></div>
+    
+</div>
+<script src="main.js" defer></script>
+
+</body>
+
+</html>
